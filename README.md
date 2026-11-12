@@ -5,6 +5,12 @@ Public release home for CoreStory command-line, MCP, and web distribution artifa
 Source code remains private.
 This repository carries versioned release artifacts, checksums, signatures, software bills of materials, and the install script.
 
+## License
+
+CoreStory binaries and release artifacts are proprietary.
+Their use and distribution will be governed by the applicable CoreStory terms when a release is published.
+No open-source license is granted by this repository.
+
 ## Install
 
 A release has not been published yet.
